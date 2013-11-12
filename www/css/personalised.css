@@ -1,0 +1,13 @@
+.navbar {
+	background-color: #183540;
+}
+
+.carousel {
+	margin-top: 150px;
+}
+.carousel-control img {
+	position: absolute;
+	top: 40%;
+	left : 35%;
+	height: 20%;
+}
